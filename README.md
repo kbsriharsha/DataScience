@@ -4,18 +4,18 @@ My Personal view about data, "<b><i>Data is a living thing, it can talk, move, e
 
 This repository contains some of my important the Data science projects which I developed using extensive machine learning algorithms and interactive visualizations. 
 
-<h4> Project Title:Cost Analysis By Customer Churn Prediction Using Different Models</h4>
+<h3> Project Title:Cost Analysis By Customer Churn Prediction Using Different Models</h3>
 
 <b>Folder:</b>CostAnalysisByCustomerChurnPrediction.
 
 This is my first full stack Data science project. I developed this model as a POC by taking a telcom dataset and the model generated approximately 35% profit to the company. I presented this model at Regions Bank (one of fortune 500 companies), they are quite excited after seeing this model and they want me to implement this model in their Bank.
 
-h4><b>Note:</b></h4> 
+<h4><b>Note:</b></h4> 
 <b>I highly recommend viewing this notebook in the below link as github is unable to show tableau and plotly embeds.</b>
 
 link: <a href = "https://nbviewer.jupyter.org/github/kbsriharsha/DataScience/blob/master/CostAnalysisByCustomerChurnPrediction/Churn.ipynb">https://nbviewer.jupyter.org/github/kbsriharsha/DataScience/blob/master/CostAnalysisByCustomerChurnPrediction/Churn.ipynb</a> 
 
-<h4> Project Title: Framework For Social Network Sentiment Analysis Using Big Data Analytics</h4>
+<h3> Project Title: Framework For Social Network Sentiment Analysis Using Big Data Analytics</h3>
 
 <b>Folder: FrameworkForSentimentAnalysis-Thesis-I</b>
 
@@ -28,7 +28,7 @@ Note: I highly recommend seeing this model in the link below as github is unable
 
 link: <a href = "https://nbviewer.jupyter.org/github/kbsriharsha/DataScience/blob/master/FrameworkForSentimentAnalysis-Thesis-I/Twitter_Spark_Sentiment.ipynb">https://nbviewer.jupyter.org/github/kbsriharsha/DataScience/blob/master/FrameworkForSentimentAnalysis-Thesis-I/Twitter_Spark_Sentiment.ipynb</a> 
 
-<h4>Project Title: Sentiment Analysis Framework For A Single Entity With An Action Mail System</h4>
+<h3>Project Title: Sentiment Analysis Framework For A Single Entity With An Action Mail System</h3>
 
 <b>Folder</b>:SentimentAnalysis-ActionMail-Thesis-II
 
