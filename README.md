@@ -8,7 +8,7 @@ This repository contains some of my important the Data science projects which I 
 
 <b>Folder:</b>CostAnalysisByCustomerChurnPrediction.
 
-This is my first full stack Data science project. I developed this model as a POC by taking a telcom dataset and the model generated approximately 35% profit to the company. I presented this model at Regions Bank (one of fortune 500 companies), they are quite excited after seeing this model and they want me to implement this model in their Bank.
+This is my first full stack Data Science project. I developed this model as a POC by taking a telcom dataset and the model generated approximately 35% profit to the company. I presented this model at Regions Bank (one of fortune 500 companies), they are quite excited after seeing this model and they want me to implement this model on their customer data.
 
 <h4><b>Note:</b></h4> 
 <b>I highly recommend viewing this notebook in the below link as github is unable to show tableau and plotly embeds.</b>
@@ -17,7 +17,7 @@ link: <a href = "https://nbviewer.jupyter.org/github/kbsriharsha/DataScience/blo
 
 <h3> Project Title: Framework For Social Network Sentiment Analysis Using Big Data Analytics</h3>
 
-<b>Folder: FrameworkForSentimentAnalysis-Thesis-I</b>
+<b>Folder:</b> FrameworkForSentimentAnalysis-Thesis-I
 
 This is the first part of my thesis. I developed this as a generalised framework for performing social network sentiment analysis on any kind of domain. For case study, I choose Automobile industry for domain, Twitter for social network and Spark as a big data analytics tool.
 
