@@ -1,6 +1,6 @@
 # Data Science Projects
 
-My Personal view about data, "<b><i>Data is a living thing, it can talk, move, eat and grow.</i></b>"
+My Personal view about data, "<b><i>Data is a living thing, it can talk, move and grow.</i></b>"
 
 This repository contains some of my important the Data science projects which I developed using extensive machine learning algorithms and interactive visualizations. 
 
