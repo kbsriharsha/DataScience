@@ -1,4 +1,4 @@
-# CostAnalysisByCustomerChurnPrediction
+# Cost Analysis By Customer Churn Prediction Using Different Models
 
 This model involves cost analysis by predicting churn class customers by comparing different models.
 
@@ -8,10 +8,10 @@ like cost matrix, adaptive thresholding and cost curves.
 
 This model was shown to Regions Bank to make it productionized. They were quite excited after seeing this and want me implement me to implement this model for their customer data.
 
-The notebook contains full approach and explanation along with the program code.
+The notebook(churn.ipynb) contains full approach and explanation along with the program code.
 
 <h4><b>Note:</b></h4> 
-<b>I highly recommend viewing this notebook in the below link as github unable to show tableau and plotly embeds.</b>
+<b>I highly recommend viewing this notebook in the below link as github is unable to show tableau and plotly embeds.</b>
 
 link: <a href = "https://nbviewer.jupyter.org/github/kbsriharsha/DataScience/blob/master/CostAnalysisByCustomerChurnPrediction/Churn.ipynb">https://nbviewer.jupyter.org/github/kbsriharsha/DataScience/blob/master/CostAnalysisByCustomerChurnPrediction/Churn.ipynb</a> 
 
