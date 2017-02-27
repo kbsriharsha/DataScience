@@ -8,7 +8,7 @@ This repository contains some of my important the Data science projects which I 
 
 <b>Folder:</b>CostAnalysisByCustomerChurnPrediction.
 
-This is my first full stack Data Science project. I developed this model as a POC by taking a telcom dataset and the model generated approximately 35% profit to the company. I presented this model at Regions Bank (one of fortune 500 companies), they are quite excited after seeing this model and they want me to implement this model on their customer data.
+This is my first full stack Data Science project. I developed this model as a POC by taking a telcom dataset and the model generated approximately 35% profit to the company. I presented this model at Regions Bank (one of fortune 500 companies), they are quite excited after seeing this model and wanted me to implement this model on their customer data.
 
 <h4><b>Note:</b></h4> 
 <b>I highly recommend viewing this notebook in the below link as github is unable to show tableau and plotly embeds.</b>
