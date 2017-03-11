@@ -2,13 +2,13 @@
 
 ----"<b><i>Data is a living thing, it can talk, move and grow.</i></b>"
 
-This repository contains some of my important the Data science projects which I developed using extensive machine learning algorithms and interactive visualizations. 
+This repository contains some of my important Data science projects which I developed using extensive machine learning algorithms and interactive visualizations. 
 
 <h3> Project Title:Cost Analysis By Customer Churn Prediction Using Different Models</h3>
 
 <b>Folder:</b>CostAnalysisByCustomerChurnPrediction.
 
-This is my first full stack Data Science project which was developed as a POC by taking a telcom dataset and the model generated approximately 35% profit to the company. I presented this model at Regions Bank (one of fortune 500 companies), they are quite excited and wanted me to implement this model on their customer data.
+This is my first full stack Data Science project which was developed as a POC by taking a telcom dataset and the model generated approximately 35% profit to the company. I presented this model at Regions Bank (one of fortune 500 companies), they are quite excited and going to test this model on their customer data sample.
 
 <h4><b>Note:</b></h4> 
 <b>I highly recommend viewing this notebook in the below link as github is unable to show tableau and plotly embeds.</b>
